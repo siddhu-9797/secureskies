@@ -1,5 +1,5 @@
 <?php
-$page_title = "SkyTech Drones - Order Confirmation";
+$page_title = "SECURE SKIES Drones - Order Confirmation";
 // Vulnerable receipt retrieval by ID (SQLi demo)
 $mysqli = mysqli_init();
 // bro I vibe coded this line... buhaha
@@ -41,7 +41,7 @@ include 'navbar.php';
                     <h3>🚁 Drone Order Details</h3>
                     <p><strong>Order ID:</strong> #ORD-<?= htmlspecialchars($receipt['id']) ?></p>
                     <p><strong>Customer:</strong> <?= $receipt['username'] ?></p>
-                    <p><strong>Product:</strong> SkyTech Pro X1 Drone</p>
+                    <p><strong>Product:</strong> SECURE SKIES Pro X1 Drone</p>
                     <p><strong>Price:</strong> $<?= htmlspecialchars($receipt['balance']) ?></p>
                     <p><strong>Order Date:</strong> <?= date('M d, Y - H:i:s') ?></p>
                     <p><strong>Status:</strong> <span style="color: #28a745; font-weight: bold;">✅ Confirmed - Ships in 2-3 days</span></p>

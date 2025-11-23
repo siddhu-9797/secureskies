@@ -1,10 +1,10 @@
 <?php
-$page_title = "SkyTech Drones - Home";
+$page_title = "SECURE SKIES  - Home";
 include 'navbar.php';
 ?>
 
         <div class="hero">
-            <h1>Welcome to SkyTech Drones</h1>
+            <h1>Welcome to SECURE SKIES</h1>
             <p>Your premier destination for professional and recreational drones</p>
         </div>
 
@@ -23,10 +23,10 @@ include 'navbar.php';
             </div>
         </div>
 
-        <div class="container">
+        <div class="container home-container">
             <h2>Start Shopping</h2>
             <a href="shop2.php">
-                <button>� Browse Drones</button>
+                <button>� Purchase Our Premium Drone</button>
             </a>
             <a href="receipt.php">
                 <button class="btn-secondary">📋 Track Order</button>

@@ -1,5 +1,5 @@
 <?php
-$page_title = "SkyTech Drones - Contact Us";
+$page_title = "SECURE SKIES Drones - Contact Us";
 include 'navbar.php';
 ?>
 
@@ -47,7 +47,7 @@ include 'navbar.php';
 
             <div class="receipt-card" style="margin-top: 2rem;">
                 <h3>Get in Touch with Our Drone Experts</h3>
-                <p><strong>Email:</strong> sales@skytechdrones.com</p>
+                <p><strong>Email:</strong> sales@SECURE SKIESdrones.com</p>
                 <p><strong>Phone:</strong> +1 (555) FLY-TECH</p>
                 <p><strong>Address:</strong> 456 Aviation Way, Tech Valley, CA 94085</p>
                 <p><strong>Hours:</strong> Monday - Saturday, 8 AM - 8 PM PST</p>

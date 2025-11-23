@@ -1,14 +1,14 @@
 <?php
-$page_title = "SkyTech Drones - About Us";
+$page_title = "SECURE SKIES Drones - About Us";
 include 'navbar.php';
 ?>
 
         <div class="container">
-            <h2 class="page-title">About SkyTech Drones</h2>
+            <h2 class="page-title">About SECURE SKIES Drones</h2>
             
             <div class="receipt-card">
                 <h3>Our Mission</h3>
-                <p>SkyTech Drones is dedicated to providing cutting-edge drone technology for professionals, enthusiasts, and businesses. We believe that aerial innovation should be accessible, reliable, and transformative for every user.</p>
+                <p>SECURE SKIES Drones is dedicated to providing cutting-edge drone technology for professionals, enthusiasts, and businesses. We believe that aerial innovation should be accessible, reliable, and transformative for every user.</p>
             </div>
 
             <div class="receipt-card">
@@ -17,7 +17,7 @@ include 'navbar.php';
             </div>
 
             <div class="receipt-card">
-                <h3>Why Choose SkyTech?</h3>
+                <h3>Why Choose SECURE SKIES?</h3>
                 <ul>
                     <li>✅ Industry-leading drone technology</li>
                     <li>✅ Expert technical support</li>

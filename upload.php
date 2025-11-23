@@ -1,5 +1,5 @@
 <?php
-$page_title = "SkyTech Drones - Upload Receipt";
+$page_title = "SECURE SKIES Drones - Upload Receipt";
 // Vulnerable file upload handler
 $upload_dir = 'uploads/';
 $message = '';

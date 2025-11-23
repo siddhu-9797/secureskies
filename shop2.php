@@ -16,7 +16,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         exit;
 }
 
-$page_title = "SkyTech Drones - Shop";
+$page_title = "SECURE SKIES Drones - Shop";
 include 'navbar.php';
 ?>
 
