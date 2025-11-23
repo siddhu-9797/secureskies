@@ -25,7 +25,7 @@ include 'navbar.php';
 
         <div class="container">
             <h2>Start Shopping</h2>
-            <a href="shop.php">
+            <a href="shop2.php">
                 <button>� Browse Drones</button>
             </a>
             <a href="receipt.php">
