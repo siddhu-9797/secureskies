@@ -26,9 +26,9 @@ include 'navbar.php';
         <div class="container home-container">
             <h2>Start Shopping</h2>
             <a href="shop2.php">
-                <button>� Purchase Our Premium Drone</button>
+                <button>🛸 Purchase Our Premium Drone</button>
             </a>
-            <a href="receipt.php">
+            <a href="upload.php">
                 <button class="btn-secondary">📋 Track Order</button>
             </a>
         </div>

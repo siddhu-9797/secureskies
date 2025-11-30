@@ -61,6 +61,15 @@ include 'navbar.php';
             <div id="receipt-link">
                 <?php if (isset($_GET['success'])): ?>
                     <div class='alert alert-success'>✅ Drone purchase successful!</div>
+                    <div class="receipt-card">
+                        <h3>🚁 Order Confirmation (Save this info for future use)</h3>
+                        <p><strong>Order ID:</strong> #ORD-<?= rand(10000, 99999) ?></p>
+                        <p><strong>Customer:</strong> <?= htmlspecialchars($_POST['name'] ?? 'John Doe') ?></p>
+                        <p><strong>Product:</strong> SECURE SKIES Pro X1 Drone</p>
+                        <p><strong>Price:</strong> $1,299.00</p>
+                        <p><strong>Order Date:</strong> <?= date('M d, Y') ?></p>
+                        <p><strong>Status:</strong> <span style="color: #28a745; font-weight: bold;">✅ Confirmed - Ships in 2-3 days</span></p>
+                    </div>
                 <?php endif; ?>
             </div>
 
